@@ -1,0 +1,12 @@
+name: purchase-intention
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn>=1.4,<1.7
+  - notebook
+  - ipykernel
