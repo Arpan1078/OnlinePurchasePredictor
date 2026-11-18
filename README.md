@@ -32,7 +32,7 @@ handling and scaling are fitted inside the training folds.
 The test set stays separate until model selection is finished. I compared results without PageValues because its availability before a purchase needs checking.
 Full-session totals also limit how early in a visit these predictions could be used.
 
-## Sources
+## References
 
 - Kim, S. Y., Shin, W., & Kim, H.-W. (2023). Predicting online customer purchase: The integration of customer characteristics and browsing patterns. Decision Support Systems, 177, 114105–114105. https://doi.org/10.1016/j.dss.2023.114105
 - Hou, Y. Bin. (2025). Predicting Purchase Intentions from E-Commerce User Behavior: A Hybrid Modeling Approach for Data-Driven Marketing. Proceedings of the 2025 2Nd International Conference on Digital Economy, Blockchain and Artificial Intelligence, 192–196. https://doi.org/10.1145/3762249.3762281
